@@ -30,6 +30,11 @@
       "bootstrap": "4.1.3",
       "jquery": "3.3.1"
   },
+  "scripts": {
+    "start": "node app",
+    "postinstall": "gulp default",
+    "test": "mocha"
+  },
   "devDependencies": {
       "browser-sync": "2.24.7",
       "gulp": "^3.9.1",
@@ -42,9 +47,4 @@
       "gulp-util": "^3.0.8",
       "mocha": "^5.2.0"
   },
-  "scripts": {
-    "start": "node app",
-    "postinstall": "gulp default",
-    "test": "mocha"
-  }
 }
