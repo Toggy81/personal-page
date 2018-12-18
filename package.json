@@ -1,10 +1,5 @@
 {
     "title": "Resume",
-    "scripts": {
-      "start": "node server.js",
-      "test": "mocha",
-      "postinstall": "bower install && grunt build"
-    },
     "name": "startbootstrap-resume",
     "version": "5.0.2",
     "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
