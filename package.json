@@ -2,7 +2,7 @@
     "title": "Resume",
     "scripts": {
       "start": "node index.js"
-    }
+    },
     "name": "startbootstrap-resume",
     "version": "5.0.2",
     "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
