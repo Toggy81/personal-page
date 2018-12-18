@@ -1,7 +1,9 @@
 {
     "title": "Resume",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+      "start": "node server.js",
+      "test": "mocha",
+      "postinstall": "bower install && grunt build"
     },
     "name": "startbootstrap-resume",
     "version": "5.0.2",
