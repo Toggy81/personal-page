@@ -1,7 +1,7 @@
 {
     "title": "Resume",
     "scripts": {
-      "start": "node index.js"
+      "start": "node gulpfile.js"
     },
     "name": "startbootstrap-resume",
     "version": "5.0.2",
