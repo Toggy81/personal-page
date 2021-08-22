@@ -190,3 +190,25 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+#portfolio {
+margin-bottom: 0 !important;
+}
+
+.card {
+  width: 450px;
+  padding: 10px;
+  border: none;
+}
+
+.dashboard {
+  display: flex;
+  justify-content: start;
+  align-items: flex-start;
+}
+
+.dashboard img {
+  border-radius: 5px;
+  border: rgba(119, 119, 119, 0.829) solid;
+  width: 100%;
+}
